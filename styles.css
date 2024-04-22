@@ -1,0 +1,13 @@
+banderas {
+    width: 200px;
+    height: auto;
+}
+div pagina{
+    width: 90%;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: DodgerBlue;
+  }
+
